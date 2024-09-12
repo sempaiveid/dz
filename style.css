@@ -1,4 +1,15 @@
-body{
-    height: 100%;
+html,body{
+    display: flex;
+    margin: 0px;
+height: 100%;
+width: 100%;
     background-image:radial-gradient( red , blue, black  );
+align-items: center;
+justify-content: center;
+
 }
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+
